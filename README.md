@@ -16,11 +16,7 @@ Base Features:
 
 Planned APIs to use:
 
- Work in progress
-    -Spam protection
-    -Image loading 
-    -Content Management
-    -Searching
+ Work in progress: Spam protection, Image loading ,Content Management, Searching
     
 
 Planned CRUD use:
