@@ -18,9 +18,9 @@ Planned APIs to use:
 
  *Work in progress*
     -Spam protection
-	-Image loading 
-	-Content Management
-	-Searching
+    -Image loading 
+    -Content Management
+    -Searching
     
 
 Planned CRUD use:
